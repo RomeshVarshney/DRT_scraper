@@ -1,10 +1,10 @@
 ## DRT Program
 This project contains three below files:
-1. DRT.py
+1. DRT.py:
     I have created this file as a Model class for DRT containing its attribute list
-2. db.py
+2. db.py:
     This file is used for interacting with db. I have used sqlite3 which will create a .db file and create a table namely DRT. This file contains method for inserting the values in the DRT table and returning all the saved DRTs.
-3. main.py
+3. main.py:
     This files contains the driver program of the project.
     This files contains the method for scraping of all the DRTs according to the provided party_name.
 
